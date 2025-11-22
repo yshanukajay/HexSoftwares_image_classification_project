@@ -1,4 +1,4 @@
-📌 Project Description — Face Mask Detection Model
+# 📌 Project Description — Face Mask Detection Model
 
 HexSoftwares_image_classification_project is a machine-learning project I created during my internship at Hex Softwares Pvt. Ltd.
 The main goal of this project is to build an efficient image classification model that can accurately detect whether a person is wearing a face mask or not.
